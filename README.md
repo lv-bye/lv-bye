@@ -2,14 +2,14 @@
 
 ### Continuous Learner, Problem Solver, & Aspiring Full Stack Dev
 
-- Based in VA, USA
-- I'm a data scientist at Booz Allen Hamilton
-- Currently filling in as a data engineer in my current project that mainly uses Airflow and Databricks
-- My coding portfolio is under construction at the moment. Stay tuned!
-- What I'm learning right now (after my 9-5):
+- 📍Based in VA, USA
+- 🖥️ I'm a data scientist at Booz Allen Hamilton
+- ⚙️ Currently filling in as a data engineer in my current project that mainly uses Airflow and Databricks
+- 📖 My coding portfolio is under construction at the moment. Stay tuned!
+- 💡 What I'm learning right now (after my 9-5):
   - Building an end-to-end ML pipeline on both AWS Sagemaker and Databricks
   - Web development (JavaScript)
-- Apart from building models/pipelines and innovative solutions, I enjoy gardening, reading, baking, creating art, and playing video/board/card games 
+- ✨ Apart from building models/pipelines and innovative solutions, I enjoy gardening, reading, baking, creating art, and playing video/board/card games 
 
 ### Skills/Tools:
 <p align="left">
