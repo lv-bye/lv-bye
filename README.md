@@ -5,7 +5,7 @@
 - Based in VA, USA
 - I'm a data scientist at Booz Allen Hamilton
 - Currently filling in as a data engineer in my current project that mainly uses Airflow and Databricks
-- My coding portfolio is under construction at the moment, but it can be found [here](https://lv-bye.github.io/)
+- My coding portfolio is under construction at the moment. Stay tuned!
 - What I'm learning right now (after my 9-5):
   - Building an end-to-end ML pipeline on both AWS Sagemaker and Databricks
   - Working on intermediate/advanced Python projects
