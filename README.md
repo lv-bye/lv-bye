@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Louisse (some know me as Lou or Vicci). 
 
-### Continuous Learner, Problem Solver, & Aspiring Dev
+### Continuous Learner, Problem Solver, & Aspiring Full Stack Dev
 
 - Based in VA, USA
 - I'm a data scientist at Booz Allen Hamilton
