@@ -8,7 +8,6 @@
 - My coding portfolio is under construction at the moment. Stay tuned!
 - What I'm learning right now (after my 9-5):
   - Building an end-to-end ML pipeline on both AWS Sagemaker and Databricks
-  - Working on intermediate/advanced Python projects
   - Web development (JavaScript)
 - Apart from building models/pipelines and innovative solutions, I enjoy gardening, reading, baking, creating art, and playing video/board/card games 
 
