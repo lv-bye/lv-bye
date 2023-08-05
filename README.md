@@ -3,7 +3,7 @@
 ### Continuous Learner, Problem Solver, & Aspiring Full Stack Dev
 
 - 📍Based in VA, USA
-- 🖥️ I'm a data scientist at Booz Allen Hamilton
+- 🖥️ I'm a data scientist
 - ⚙️ Currently filling in as a data engineer in my current project that mainly uses Airflow and Databricks
 - 📖 My coding portfolio is under construction at the moment. Stay tuned!
 - 💡 What I'm learning right now (after my 9-5):
