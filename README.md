@@ -1,15 +1,12 @@
 ## Hi 👋, my name is Louisse (some know me as Lou or Vicci). 
 
-### Continuous Learner, Problem Solver, & Aspiring Full Stack Dev
+### Continuous Learner + Problem Solver
 
 - 📍Based in VA, USA
-- 🖥️ I'm a data scientist
-- ⚙️ Currently filling in as a data engineer in my current project that mainly uses Airflow and Databricks
+- 🖥️ I'm a data engineer at a consulting firm, utilizing Databricks and AWS
 - 📖 My coding portfolio is under construction at the moment. Stay tuned!
 - 💡 What I'm learning right now (after my 9-5):
-  - Building an end-to-end scalable ML pipeline on both AWS Sagemaker and Databricks
-  - Working through the App Academy SWE pathway plan
-    - Web Development Fundamentals
+  - Cooking up an E2E project that utilizes computer vision and a ML recommendation system.
 - ✨ Apart from building models/pipelines and innovative solutions, I enjoy gardening, reading, baking, creating art, and playing video/board/card games 
 
 ### Skills/Tools:
